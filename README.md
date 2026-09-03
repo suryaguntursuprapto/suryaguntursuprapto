@@ -206,7 +206,7 @@ Eager to contribute to innovative tech teams and open to new opportunities in so
   <a href="mailto:suryaguntur2000@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>&nbsp;
-  <a href="www.linkedin.com/in/surya-guntur-suprapto-089aa1340">
+  <a href="https://linkedin.com/in/surya-guntur-suprapto-089aa1340">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;
   <a href="https://instagram.com/suryaguntursuprapto">
