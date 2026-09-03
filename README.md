@@ -171,6 +171,36 @@ Eager to contribute to innovative tech teams and open to new opportunities in so
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- 📈  ACTIVITY GRAPH                                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suryaguntursuprapto&bg_color=0D1117&color=00FF7F&line=00D4FF&point=FF007F&area=true&area_color=7B2FFF&hide_border=true&custom_title=Contribution%20Activity" width="95%"/>
+</div>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- 🐍  SNAKE ANIMATION                                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suryaguntursuprapto/suryaguntursuprapto/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suryaguntursuprapto/suryaguntursuprapto/output/github-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/suryaguntursuprapto/suryaguntursuprapto/output/github-snake-dark.svg" width="100%">
+  </picture>
+</div>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- 📬  CONNECT WITH ME                                                   -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
