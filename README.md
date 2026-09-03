@@ -94,7 +94,7 @@ Eager to contribute to innovative tech teams and open to new opportunities in so
 <div align="center">
 
 <a href="https://github.com/suryaguntursuprapto/Thunder-Blockchain">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=suryaguntursuprapto&repo=Thunder-Blockchain&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF7F&icon_color=00D4FF&text_color=FFFFFF" />
+  <img src="https://github-readme-stats-seven-theta-23.vercel.app/api/pin/?username=suryaguntursuprapto&repo=Thunder-Blockchain&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF7F&icon_color=00D4FF&text_color=FFFFFF" />
 </a>
 
 </div>
@@ -160,15 +160,7 @@ Eager to contribute to innovative tech teams and open to new opportunities in so
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- 🏆  TROPHY SHOWCASE (using user's own Vercel)                         -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-  <img src="https://github-readme-stats-seven-theta-23.vercel.app/api/pin/?username=suryaguntursuprapto&repo=Thunder-Blockchain&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF7F&icon_color=00D4FF&text_color=FFFFFF" />
-</div>
-
-<br>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- 📈  ACTIVITY GRAPH                                                    -->
