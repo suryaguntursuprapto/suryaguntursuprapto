@@ -181,7 +181,7 @@ Eager to contribute to innovative tech teams and open to new opportunities in so
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/00FF7F/suryaguntursuprapto" alt="GitHub Contribution Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph-two-fawn.vercel.app/graph?username=suryaguntursuprapto&bg_color=0D1117&color=00FF7F&line=00D4FF&point=FF007F&area=true&area_color=7B2FFF&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub Contribution Graph" width="95%"/>
 </div>
 
 <br>
