@@ -147,7 +147,7 @@ Eager to contribute to innovative tech teams and open to new opportunities in so
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=suryaguntursuprapto&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF7F&icon_color=00D4FF&text_color=FFFFFF&ring_color=00FF7F" />
+<img width="49%" src="https://github-readme-stats-seven-theta-23.vercel.app/api?username=suryaguntursuprapto&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF7F&icon_color=00D4FF&text_color=FFFFFF&ring_color=00FF7F" />
 <img width="49%" src="https://streak-stats.demolab.com?user=suryaguntursuprapto&theme=radical&hide_border=true&background=0D1117&stroke=00FF7F&ring=00FF7F&fire=FF007F&currStreakNum=FFFFFF&sideNums=00D4FF&currStreakLabel=00FF7F&sideLabels=7B2FFF&dates=555555" />
 
 </div>
@@ -155,7 +155,7 @@ Eager to contribute to innovative tech teams and open to new opportunities in so
 <br>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=suryaguntursuprapto&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF7F&text_color=FFFFFF&langs_count=8" />
+  <img width="40%" src="https://github-readme-stats-seven-theta-23.vercel.app/api/top-langs/?username=suryaguntursuprapto&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF7F&text_color=FFFFFF&langs_count=8" />
 </div>
 
 <br>
